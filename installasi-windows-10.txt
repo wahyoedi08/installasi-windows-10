@@ -1,0 +1,7 @@
+installasi windows 10
+- backup data desktop
+- download iso
+- burning/copy to usb
+- bios setting
+- patition
+- install
