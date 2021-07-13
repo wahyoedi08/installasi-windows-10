@@ -1,7 +1,10 @@
 installasi windows 10
 - backup data desktop
 - download iso → www.microsoft.com
+  • create installation media {USB flash drive, DVD or ISO file) for another PC
+  • iso file
 - burning/copy to usb → rufus
+  • partition scheme MBR
 - bios setting
 - patition
 - install
