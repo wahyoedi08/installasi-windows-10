@@ -1,7 +1,7 @@
 installasi windows 10
 - backup data desktop
-- download iso
-- burning/copy to usb
+- download iso → www.microsoft.com
+- burning/copy to usb → rufus
 - bios setting
 - patition
 - install
