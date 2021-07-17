@@ -5,6 +5,7 @@ installasi windows 10
   • iso file
 - burning/copy to usb → rufus
   • partition scheme MBR
-- bios setting
+- bios setting → f2
+  • masuk ke menu boot klik hard drive BBS priorities lalu pilih flashdisk kalian
 - patition
 - install
